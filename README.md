@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadir53mohamedali&show_icons=true&locale=en" alt="abdulqadir53mohamedali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulqadir53mohamedali&" alt="abdulqadir53mohamedali" /></p>
+<!--! testing snake-->
+<img alt="snake eating my contributions" src="https://github.com/Abdulqadir53Mohamedali/Abdulqadir53Mohamedali/blob/output/github-contribution-grid-snake-dark.svg" />
