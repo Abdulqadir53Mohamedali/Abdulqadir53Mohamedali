@@ -1,7 +1,5 @@
 <!-- Introduction Section -->
 <h1 align="center">Hi 👋, I'm Abdulqadir Mohamedali</h1>
-<h3 align="center">An aspiring Game Developer from the UK</h3>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=abdulqadir53mohamedali&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadir53mohamedali" />
 </p>
