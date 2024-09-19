@@ -1,8 +1,7 @@
 <!-- Introduction Section -->
-<h1 align="center">Hi 👋, I'm Abdulqadir Mohamedali</h1>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=abdulqadir53mohamedali&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadir53mohamedali" />
-</p>
+<h1 align="center">Hi 👋, I'm Abdulqadir Mohamedali
+  <img src="https://komarev.com/ghpvc/?username=abdulqadir53mohamedali&label=visitors&color=0e75b6&style=flat" alt="Profile views" />
+</h1>
 
 <p align="center">
 🔭 I’m currently working on **Pong-Raylib and QuizGame** <br>
@@ -10,6 +9,7 @@
 💬 Ask me about **C++ , Python** <br>
 📫 How to reach me: **abdulqadir.tm@gmail.com**
 </p>
+
 
 ---
 
