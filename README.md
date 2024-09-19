@@ -74,9 +74,7 @@ I’m an enthusiastic game design and programming student with a deep interest i
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadir53mohamedali&show_icons=true&locale=en" alt="abdulqadir53mohamedali" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulqadir53mohamedali&" alt="abdulqadir53mohamedali" />
-</p>
+
 
 ---
 
@@ -84,3 +82,5 @@ I’m an enthusiastic game design and programming student with a deep interest i
 <p align="center">
   <img alt="snake eating my contributions" src="https://github.com/Abdulqadir53Mohamedali/Abdulqadir53Mohamedali/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
+<h2 align="center">Contacts & Extras</h2>
+
