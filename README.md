@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-</p>
-
-<p align="center">
 🔭 I’m currently working on **Pong-Raylib and QuizGame** <br>
 🌱 I’m currently learning **Raylib C++ , HTML, CSS, JS, and Bootstrap** <br>
 💬 Ask me about **C++ , Python** <br>
