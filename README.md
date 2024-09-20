@@ -67,14 +67,14 @@ I’m an enthusiastic game design and programming student with a deep interest i
 ---
 
 <!-- Statistics Section -->
+<!-- Statistics Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulqadir53mohamedali&show_icons=true&locale=en&layout=compact" alt="abdulqadir53mohamedali" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulqadir53mohamedali&show_icons=true&locale=en&layout=donut&theme=dark&bg_color=333333&title_color=ffffff&text_color=ffffff&icon_color=ffa500" alt="abdulqadir53mohamedali" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadir53mohamedali&show_icons=true&locale=en" alt="abdulqadir53mohamedali" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadir53mohamedali&show_icons=true&locale=en&theme=dark&bg_color=333333&title_color=ffffff&text_color=ffffff&icon_color=ffa500" alt="abdulqadir53mohamedali" />
 </p>
-
 
 ---
 
