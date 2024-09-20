@@ -15,24 +15,25 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      # Generate Snake Animation and save it to the root directory
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
           github_user_name: Abdulqadir53Mohamedali
-          outputs: dist/snake.svg
+          outputs: snake.svg  # Save the output directly to the root directory
 
-      # New step to list the contents of the dist folder
-      - name: List Dist Folder Contents
-        run: ls -la dist
+      # New step to list the contents of the root folder
+      - name: List Root Folder Contents
+        run: ls -la
 
       - name: Upload Snake SVG
         uses: actions/upload-artifact@v3
         with:
           name: snake
-          path: dist/snake.svg
+          path: snake.svg
 
-      # Save it to the output folder
+      # Move Snake SVG to Output (if it exists)
       - name: Move Snake SVG to Output
         run: |
           mkdir -p output
-          mv dist/snake.svg output/github-contribution-grid-snake.svg
+          mv snake.svg output/github-contribution-grid-snake.svg
