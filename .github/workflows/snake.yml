@@ -21,6 +21,10 @@ jobs:
           github_user_name: Abdulqadir53Mohamedali
           outputs: dist/snake.svg
 
+      # New step to list the contents of the dist folder
+      - name: List Dist Folder Contents
+        run: ls -la dist
+
       - name: Upload Snake SVG
         uses: actions/upload-artifact@v3
         with:
