@@ -3,9 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=abdulqadir53mohamedali&label=visitors&color=0e75b6&style=flat" alt="Profile views" />
 </h1>
 
-<p align="center">
-I’m an enthusiastic game design and programming student with a deep interest in game development and interactive technologies. My journey in this field is driven by a strong desire to learn and a commitment to creativity and innovation \nI thrive on challenges, whether it’s mastering a new programming language or learning advanced tools to enhance my work. While I’m still at the beginning of my exciting journey into game development, I already possess an intermediate level of expertise in various programming languages. Like many, I have a deep love for video games and aspire to create my own someday.
+<p align="">
+I’m an enthusiastic game design and programming student with a deep interest in game development and interactive technologies. My journey in this field is driven by a strong desire to learn and a commitment to creativity and innovation.<br>
+  
+I thrive on challenges, whether it’s mastering a new programming language or learning advanced tools to enhance my work. While I’m still at the beginning of my exciting journey into game development, I already possess an intermediate level of expertise in various programming languages.
+Like many, I have a deep love for video games and aspire to create my own someday.
 </p>
+
 
 
 ---
@@ -13,11 +17,11 @@ I’m an enthusiastic game design and programming student with a deep interest i
 <h2 align="center">🛠 Skills</h2>
 
 <!-- Skill Categories in 2 Rows and 2 Columns -->
-<table align="center">
+<table align="">
   <!-- First Row -->
   <tr>
     <!-- Applications Column -->
-    <td align="center" valign="top" width="50%">
+    <td align="" valign="top" width="50%">
       <h3>Applications</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
@@ -29,7 +33,7 @@ I’m an enthusiastic game design and programming student with a deep interest i
       <p>I excel in various applications from coding in Visual Studio Code to 3D modelling and animation in Blender.</p>
     </td>
     <!-- Programming Languages Column -->
-    <td align="center" valign="top" width="50%">
+    <td align="" valign="top" width="50%">
       <h3>Programming Languages</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -46,7 +50,7 @@ I’m an enthusiastic game design and programming student with a deep interest i
   <!-- Second Row -->
   <tr>
     <!-- Frameworks / Library Column -->
-    <td align="center" valign="top" width="50%">
+    <td align="" valign="top" width="50%">
       <h3>Frameworks / Library</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
@@ -54,7 +58,7 @@ I’m an enthusiastic game design and programming student with a deep interest i
       <p>Experience with Bootstrap for responsive web design and Raylib for C++ game development.</p>
     </td>
     <!-- Game Development Column -->
-    <td align="center" valign="top" width="50%">
+    <td align="" valign="top" width="50%">
       <h3>Game Development</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
