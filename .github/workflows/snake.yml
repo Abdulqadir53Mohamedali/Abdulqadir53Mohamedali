@@ -15,12 +15,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      # Generate Snake Animation and save it to the root directory
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
           github_user_name: Abdulqadir53Mohamedali
-          outputs: snake.svg  # Save the output directly to the root directory
+          svg_out_path: ./snake.svg  # Correct output path
 
       # New step to list the contents of the root folder
       - name: List Root Folder Contents
