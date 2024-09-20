@@ -79,12 +79,16 @@ Like many, I have a deep love for video games and aspire to create my own someda
 <!-- Statistics Section -->
 <!-- Statistics Section -->
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulqadir53mohamedali&show_icons=true&locale=en&layout=donut&theme=dark&bg_color=333333&title_color=ffffff&text_color=ffffff&icon_color=ffa500" alt="abdulqadir53mohamedali" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadir53mohamedali&show_icons=true&locale=en&theme=dark&bg_color=333333&title_color=ffffff&text_color=ffffff&icon_color=ffa500" alt="abdulqadir53mohamedali" />
-</p>
+
+<!-- Flexbox container for GitHub stats -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- GitHub Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulqadir53mohamedali&show_icons=true&locale=en&layout=donut&theme=dark&bg_color=333333&title_color=ffffff&text_color=ffffff&icon_color=ffa500" alt="abdulqadir53mohamedali" style="max-width: 45%;"/>
+
+  <!-- GitHub General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulqadir53mohamedali&show_icons=true&locale=en&theme=dark&bg_color=333333&title_color=ffffff&text_color=ffffff&icon_color=ffa500" alt="abdulqadir53mohamedali" style="max-width: 45%;"/>
+</div>
+
 
 ---
 
