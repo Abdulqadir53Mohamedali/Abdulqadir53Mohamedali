@@ -27,3 +27,8 @@ jobs:
           name: snake
           path: dist/snake.svg
 
+      # Save it to the output folder
+      - name: Move Snake SVG to Output
+        run: |
+          mkdir -p output
+          mv dist/snake.svg output/github-contribution-grid-snake.svg
