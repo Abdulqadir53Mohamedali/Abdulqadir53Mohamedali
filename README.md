@@ -1,7 +1,10 @@
 <!-- Introduction Section -->
-<h1 align="center">Hi 👋, I'm Abdulqadir Mohamedali
-  <img src="https://komarev.com/ghpvc/?username=abdulqadir53mohamedali&label=visitors&color=0e75b6&style=flat" alt="Profile views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=abdulqadir53mohamedali&label=visitors&color=0e75b6&style=flat" alt="Profile views" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdulqadir+Mohamedali!;" />
 </h1>
+
 
 <p align="">
 I’m an enthusiastic game design and programming student with a deep interest in game development and interactive technologies. My journey in this field is driven by a strong desire to learn and a commitment to creativity and innovation.<br>
@@ -96,5 +99,10 @@ Like many, I have a deep love for video games and aspire to create my own someda
 ![GitHub Contribution Snake](https://github.com/Abdulqadir53Mohamedali/Abdulqadir53Mohamedali/blob/main/output/github-contribution-grid-snake.svg)
 
 
-
+---
+<div align="center"> 
+  <a href="aqgamedevjounrey@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
