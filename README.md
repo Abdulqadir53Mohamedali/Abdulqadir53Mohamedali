@@ -98,7 +98,7 @@ Like many, I have a deep love for video games and aspire to create my own someda
 ### 🐍 Contribution Snake
 ![GitHub Contribution Snake](https://github.com/Abdulqadir53Mohamedali/Abdulqadir53Mohamedali/blob/main/output/github-contribution-grid-snake.svg)
 
-
+<!--https://x.com/AbdulGameDevLog-->
 ---
 <div align="center"> 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aqgamedeveloper@gmail.com" target="_blank">
@@ -107,6 +107,11 @@ Like many, I have a deep love for video games and aspire to create my own someda
 <a href="https://linkedin.com/in/abdulqadir-mohamedali-46b534287" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://x.com/AbdulGameDevLog" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=&logoColor=white" />
+</a>
+
+
 
 </div>
 
