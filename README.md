@@ -93,8 +93,7 @@ Like many, I have a deep love for video games and aspire to create my own someda
 ---
 
 <!-- Contribution Snake -->
-<p align="center">
-  <img alt="snake eating my contributions" src="https://github.com/Abdulqadir53Mohamedali/Abdulqadir53Mohamedali/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-<h2 align="center">Contacts & Extras</h2>
+### 🐍 Contribution Snake
+![GitHub Contribution Snake](https://github.com/Abdulqadir53Mohamedali/Abdulqadir53Mohamedali/blob/output/github-contribution-grid-snake.svg)
+
 
