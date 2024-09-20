@@ -12,52 +12,59 @@ I’m an enthusiastic game design and programming student with a deep interest i
 <!-- Skills Section -->
 <h2 align="center">🛠 Skills</h2>
 
-<!-- Skill Categories in 4 Columns -->
+<!-- Skill Categories in 2 Rows and 2 Columns -->
 <table align="center">
+  <!-- First Row -->
   <tr>
     <!-- Applications Column -->
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="50%">
       <h3>Applications</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
-</p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original.svg" alt="Repl.it" width="40" height="40"/>
-
-<p>I excel in various applications from coding in Visual Studio Code to 3D modellign and animation in Blender</p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original.svg" alt="Repl.it" width="40" height="40"/>
+      </p>
+      <p>I excel in various applications from coding in Visual Studio Code to 3D modelling and animation in Blender.</p>
     </td>
-        <td align="center" valign="top" width="25%">
+    <!-- Programming Languages Column -->
+    <td align="center" valign="top" width="50%">
       <h3>Programming Languages</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
       </p>
       <p>My programming skills and experience span multiple languages, with varying levels of proficiency, generally falling within an intermediate range.</p>
     </td>
-        <td align="center" valign="top" width="25%">
+  </tr>
+  <!-- Second Row -->
+  <tr>
+    <!-- Frameworks / Library Column -->
+    <td align="center" valign="top" width="50%">
       <h3>Frameworks / Library</h3>
       <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raylib/raylib-original.svg" alt="Raylib" width="40" height="40"/>
       </p>
-      <p>Experience with bootsrap for web design and raylib for C++ game development</p>
+      <p>Experience with Bootstrap for responsive web design and Raylib for C++ game development.</p>
     </td>
-        <td align="center" valign="top" width="25%">
+    <!-- Game Development Column -->
+    <td align="center" valign="top" width="50%">
       <h3>Game Development</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
       </p>
-      <p>Proficient in game development using C++, C#, and Unity, with a strong commitment to continuously enhancing my skills. </p>
+      <p>Proficient in game development using C++, C#, and Unity, with a strong commitment to continuously enhancing my skills.</p>
     </td>
   </tr>
 </table>
