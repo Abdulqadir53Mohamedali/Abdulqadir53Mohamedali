@@ -96,7 +96,8 @@ Like many, I have a deep love for video games and aspire to create my own someda
 ---
 
 ### 🐍 A Snake Eating My Contributions
-![GitHub Contribution Snake](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/Abdulqadir53Mohamedali/Abdulqadir53Mohamedali/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--https://x.com/AbdulGameDevLog-->
