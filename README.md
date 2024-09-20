@@ -50,7 +50,6 @@ I’m an enthusiastic game design and programming student with a deep interest i
       <h3>Frameworks / Library</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raylib/raylib-original.svg" alt="Raylib" width="40" height="40"/>
       </p>
       <p>Experience with Bootstrap for responsive web design and Raylib for C++ game development.</p>
     </td>
