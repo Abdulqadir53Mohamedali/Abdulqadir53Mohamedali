@@ -101,8 +101,9 @@ Like many, I have a deep love for video games and aspire to create my own someda
 
 ---
 <div align="center"> 
-  <a href="mailto:aqgamedevjounrey@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aqgamedevjounrey@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
+
 
