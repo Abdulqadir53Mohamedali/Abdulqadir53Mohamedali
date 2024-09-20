@@ -21,8 +21,9 @@ jobs:
           github_user_name: Abdulqadir53Mohamedali
           outputs: dist/snake.svg
 
+      # Use the latest version of upload-artifact action (v3)
       - name: Upload Snake SVG
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: snake
           path: dist/snake.svg
