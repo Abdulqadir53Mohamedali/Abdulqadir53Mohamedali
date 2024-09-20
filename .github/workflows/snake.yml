@@ -39,6 +39,17 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Create output branch if it doesn't exist
+        run: |
+          git fetch origin
+          if git rev-parse --verify origin/output > /dev/null 2>&1; then
+            echo "Branch output exists"
+          else
+            echo "Creating output branch"
+            git checkout -b output
+            git push origin output
+          fi
+
       - name: Show build status
         run: git status
 
