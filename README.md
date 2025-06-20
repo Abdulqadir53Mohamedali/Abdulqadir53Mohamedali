@@ -109,7 +109,7 @@ Like many, I have a deep love for video games and aspire to create my own someda
 <a href="https://linkedin.com/in/abdulqadir-mohamedali-46b534287" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="[https://x.com/AbdulGameDevLog](https://x.com/AqGameDeveloper)" target="_blank">
+<a href="https://x.com/AqGameDeveloper" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=&logoColor=white" />
 </a>
 
